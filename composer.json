@@ -1,5 +1,5 @@
 {
-   "name": "Ulysses-son/CursoComposer",
+   "name": "ulysses-son/curso-composer",
    "description": "Package test",
    "require": {
       "php": ">=5.4",
