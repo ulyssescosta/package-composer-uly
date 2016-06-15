@@ -1,0 +1,21 @@
+{
+   "name": "Ulysses-son/CursoComposer",
+   "description": "Package test",
+   "require": {
+      "php": ">=5.4",
+      "silex/silex": "2.0.*@stable"
+   },
+   "type": "library",
+   "version": "1.0",
+   "license": "MIT",
+   "author": {
+      "name": "Ulysses Costa",
+      "email": "costa.ulysses@gmail.com"
+   },
+   "minimum-stability": "dev",
+   "autoload": {
+      "psr-4": {
+         "Uly\\": "src/Uly/"
+      }
+   }
+}
